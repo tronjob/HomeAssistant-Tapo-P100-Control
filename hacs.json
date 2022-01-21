@@ -1,0 +1,6 @@
+{
+  "domains": "tplink-tapo",
+  "homeassistant": "2021.9.0",
+  "name": "TPLink Tapo",
+  "render_readme": true
+}
